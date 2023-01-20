@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "type": "extendscript-debug",
+            "request": "launch",
+            "name": "Launch In-Design",
+            "hostAppSpecifier": "indesign-18.064",
+            "engineName": "main"
+        },
+    ]
+}
